@@ -1,5 +1,4 @@
 
 **出生年月**：2004.10 | **民族**：汉 | **邮箱**：wwwtouzi@outlook.com  
 <!-- **本科院校**：河南农业大学（绩点排名前3%） | **研究生院校**：北京邮电大学（保送，研0） -->
-**本科院校**：河南农业大学 
-**Github**：https://github.com/onetouzi
+**本科院校**：河南农业大学 | **Github**：https://github.com/onetouzi

@@ -2,8 +2,8 @@ const STORAGE_KEY = "touzi-profile-data-v6";
 const LANG_KEY = "touzi-profile-lang";
 const THEME_KEY = "touzi-profile-theme";
 const SESSION_KEY = "touzi-admin-session";
-const ADMIN_USER = "touzi";
-const ADMIN_PASS = "w3455853417";
+const ADMIN_USER = "admin";
+const ADMIN_PASS = "admin";
 
 let profileData = loadData();
 let currentLang = localStorage.getItem(LANG_KEY) || "zh";

@@ -7,7 +7,7 @@ const DEFAULT_PROFILE_DATA = {
             en: "Focused on backend engineering, deep learning, multimodal learning, and model inference optimization. Experienced in Java backend development, distributed system design, model training, tuning, and inference deployment. Familiar with Spring Boot, RocketMQ, Redis, MySQL, PyTorch, and TensorRT."
         },
         contacts: [
-            { icon: "☎", value: { zh: "+86 15903681859", en: "+86 15903681859" } },
+            { icon: "☎", value: { zh: "+86 15912345859", en: "+86 15912345859" } },
             { icon: "✉", value: { zh: "wwwtouzi@outlook.com", en: "wwwtouzi@outlook.com" } },
             { icon: "⌂", value: { zh: "https://onetouzi.github.io", en: "https://onetouzi.github.io" } }
         ],
